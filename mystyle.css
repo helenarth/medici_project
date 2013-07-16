@@ -1,0 +1,257 @@
+#home_container {
+	width:100%;
+	height:100%;
+
+}
+/*#home {
+	float:left;
+}*/
+
+#home_menu {
+	width:20%;
+	height:100%;
+	float:left;
+	overflow: scroll;
+	background-color:blue;
+}
+
+#home_header {
+	background-color:#FFA500;
+	width:100%;
+}
+
+#home_content {
+	width:80%;
+	height:100%;
+	
+	background-color:#EEEEEE;
+	float:left;
+}
+.aspectwrapper {
+display: inline-block; /* shrink to fit */
+width: 100%; /* whatever width you like */
+position: relative; /* so .content can use position: absolute */
+height:100%;
+}
+.aspectwrapper::after {
+padding-top: 56.25%; /* percentage of containing block _width_ */
+display: block;
+content: '';
+}
+#home_container {
+position: absolute;
+}
+
+
+/
+
+/*home_page_css*/
+
+#about_header {
+
+	background-color:#FFA500;
+}
+
+#about_menu {
+
+	
+	background-color:#FFA500;
+	height:100%;
+	width:30%;
+	float:left;
+}
+
+#about_content {
+
+	background-color:#EEEEEE;
+	height:100%;
+	width:80%;f
+	float:left;
+}
+
+#contact_container {
+	width:100%;
+	height:100%;
+
+}
+
+#contact_menu {
+	background-color:#FFA500;
+	height:100%;
+	width:30%;
+	float:left;
+}
+
+#contact_header {
+	background-color:#FFA500;
+}
+
+#contact_content {
+	
+	background-color:#EEEEEE;
+	height:100%;
+	width:80%;f
+	float:left;
+
+}
+
+
+#equities_container {
+	width:100%;
+	height:100%;
+
+}
+
+#equities_menu {
+	background-color:#FFA500;
+	height:100%;
+	width:30%;
+	float:left;
+}
+
+#equities_header {
+	background-color:#FFA500;
+}
+
+#equities_content {
+	
+	background-color:#EEEEEE;
+	height:100%;
+	width:80%;f
+	float:left;
+
+}
+
+
+#derivatives_container {
+	width:100%;
+	height:100%;
+
+}
+
+#derivatives_menu {
+	background-color:#FFA500;
+	height:100%;
+	width:30%;
+	float:left;
+}
+
+#derivatives_header {
+	background-color:#FFA500;
+}
+
+#derivatives_content {
+	
+	background-color:#EEEEEE;
+	height:100%;
+	width:80%;f
+	float:left;
+
+}
+
+
+
+
+
+#services_mgmt_consulting_container {
+	width:100%;
+	height:100%;
+
+}
+
+
+#services_mgmt_consulting_menu {
+	width:20%;
+	height:100%;
+	float:left;
+	overflow: scroll;
+	background-color:blue;
+}
+
+#services_mgmt_consulting_header {
+	background-color:#FFA500;
+	width:100%;
+}
+
+#services_mgmt_consulting_content {
+	width:80%;
+	height:100%;
+	
+	background-color:#EEEEEE;
+	float:left;
+}
+
+
+#services_mgmt_consulting_container {
+position: absolute;
+}
+
+/*web_app_dev*/
+
+#services_web_app_dev_container {
+	width:100%;
+	height:100%;
+
+}
+
+
+#services_web_app_dev_menu {
+	width:20%;
+	height:100%;
+	float:left;
+	overflow: scroll;
+	background-color:blue;
+}
+
+#services_web_app_dev_header {
+	background-color:#FFA500;
+	width:100%;
+}
+
+#services_web_app_dev_content {
+	width:80%;
+	height:100%;
+	
+	background-color:#EEEEEE;
+	float:left;
+}
+
+
+#services_web_app_dev_container {
+position: absolute;
+}
+
+/*services_financial_engineering*/
+#services_financial_engineering_container {
+	width:100%;
+	height:100%;
+
+}
+
+
+#services_financial_engineering_menu {
+	width:20%;
+	height:100%;
+	float:left;
+	overflow: scroll;
+	background-color:blue;
+}
+
+#services_financial_engineering_header {
+	background-color:#FFA500;
+	width:100%;
+}
+
+#services_financial_engineering_content {
+	width:80%;
+	height:100%;
+	
+	background-color:#EEEEEE;
+	float:left;
+}
+
+
+#services_financial_engineering_container {
+position: absolute;
+}
+
