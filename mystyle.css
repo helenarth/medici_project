@@ -15,7 +15,13 @@
 	background-color:blue;
 }
 
+/*delete this eventually */
 #home_header {
+	background-color:#FFA500;
+	width:100%;
+}
+
+#nav {
 	background-color:#FFA500;
 	width:100%;
 }
